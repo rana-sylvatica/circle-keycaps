@@ -16,6 +16,9 @@ A viable alternative is 3D printing the keycaps through an online service.  Alth
  - Upload 3D files (download from .stl_files folder)
     - Be sure to use the model with the filename corresponding to the chosen material
  - Select material/color/quantity
+![image](https://user-images.githubusercontent.com/95242582/163079345-7310701a-06c7-4f81-bf69-2fae5c31b7e8.png)
+
+
  - Save to cart
  - Checkout
 
@@ -41,12 +44,13 @@ There are two materials that have been tested and work well:
  
  #### Notes on the 3D models:
  
- The two files in the .stl_files folder are very similar but are optimized for the material in the name.
+ The two files in the .stl_files folder are similar but optimized for the material in the filename.
  The design of the keycap is heavily inspired by Haystack's "NoCap" project (https://github.com/JonnyHaystack/NoCap/)
  
  #### Buying from me:
  
- If you are located in the USA and would not like to wait for shipping from China, I have a small stock of these keycaps that I am reselling.
+ If you are located in the USA and would not like to wait 2 weeks for shipping from China, I have a small stock of these keycaps that I am reselling.
+ 
  __This will be more expensive than ordering directly from JLC__
  
  Prices are as follows:
