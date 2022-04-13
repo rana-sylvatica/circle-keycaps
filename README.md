@@ -22,7 +22,7 @@ A viable alternative is 3D printing the keycaps through an online service.  Alth
  - Save to cart
  - Checkout
 
-#### Notes on materials:
+### Notes on materials:
 
 There are two materials that have been tested and work well:
  - LEDO6060 resin:
@@ -36,18 +36,18 @@ There are two materials that have been tested and work well:
     - Available in natural grey or dyed black
     - Textured finish
  
- #### Notes on quantities:
+ ### Notes on quantities:
  
  Each file contains 10 keycaps joined by thin "sprues".  This is to get around the minimum part cost.  The keycaps can be separated with flush cutters or a sharp knife
  A standard rectangle controller in the style of B0XX or Frame1 uses 20 buttons.
  It is advisable to order an additional set (30 total keycaps) to have extras in case of quality control issues. This is rare, but with shipping time and cost, having extras just in case can be nice
  
- #### Notes on the 3D models:
+ ### Notes on the 3D models:
  
  The two files in the .stl_files folder are similar but optimized for the material in the filename.
  The design of the keycap is heavily inspired by Haystack's "NoCap" project (https://github.com/JonnyHaystack/NoCap/)
  
- #### Buying from me:
+### Buying from me:
  
  If you are located in the USA and would not like to wait 2 weeks for shipping from China, I have a small stock of these keycaps that I am reselling.
  
@@ -61,7 +61,7 @@ There are two materials that have been tested and work well:
  
  Contact me on Discord if you have any questions about the project: @bjartskular1#6913
  
- #### Pictures of the keycaps:
+ ### Pictures of the keycaps:
  
 ![IMG_20220329_121512377](https://user-images.githubusercontent.com/95242582/163078931-5093464d-c834-4fc7-86ef-15f831ea400e.jpg)
 ![IMG_9191](https://user-images.githubusercontent.com/95242582/163079071-232bcb5f-47c6-4e31-be93-f0166976a144.jpg)
