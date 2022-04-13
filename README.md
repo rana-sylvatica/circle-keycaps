@@ -54,6 +54,7 @@ There are two materials that have been tested and work well:
  __This will be more expensive than ordering directly from JLC__
  
  Prices are as follows:
+ 
  $0.40 per keycap for resin (I have LEDO6060 (white) and Imagine Black (black, not available on JLC))
  
  $0.80 per keycap for nylon (currently only have grey nylon in stock)
