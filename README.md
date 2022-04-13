@@ -14,7 +14,7 @@ A viable alternative is 3D printing the keycaps through an online service.  Alth
  - Click "Instant Quote"
  - Click the "3D Printing" tab
  - Upload 3D files (download from .stl files folder)
-  - Be sure to use the model corresponding to the chosen material
+    - Be sure to use the model corresponding to the chosen material
  - Select material/color/quantity
  - Save to cart
  - Checkout
