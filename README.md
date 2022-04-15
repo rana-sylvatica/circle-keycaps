@@ -45,8 +45,11 @@ There are two materials that have been tested and work well:
  ### Notes on the 3D models:
  
  The two files in the .stl_files folder are similar but optimized for the material in the filename.
+ 
  The design of the keycap is heavily inspired by Haystack's "NoCap" project (https://github.com/JonnyHaystack/NoCap/)
+ 
  Diameter of the keycaps is 20.64mm (same as Frame1 keycaps).  For a good fit, use a top panel with 22mm holes.
+ 
  Height of the keycap is 8mm (slightly lower-profile than Frame1 keycaps)
  
 ### Buying from me:
