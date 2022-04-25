@@ -22,9 +22,19 @@ A viable alternative is 3D printing the keycaps through an online service.  Alth
  - Save to cart
  - Checkout
 
+### Alternatives to JLC:
+
+  If you live in the EU it may be cheaper overall to order nylon keycaps from Xometry (xometry.com).  The part cost is higher than JLC but the shipping fees are lower.
+  To order from Xometry:
+  - Upload nylon .stl file
+  - Select HP Multi Jet Fusion (MJF) as the process
+  - Select Nylon 12 as the material
+  - You will have the option to select natural gray or dyed black for the color
+  - A minimum order cost will apply, so you will get better value by ordering multiple sets
+
 ### Notes on materials:
 
-There are two materials that have been tested and work well:
+There are two materials on JLC that have been tested and work well:
  - LEDO6060 resin:
     -  Extremely cheap (~$3.30 USD for 20 keycaps)
     -  Fairly durable
@@ -62,7 +72,7 @@ There are two materials that have been tested and work well:
  
  $0.40 per keycap for resin (I have LEDO6060 (white) and Imagine Black (black, not available on JLC))
  
- $0.80 per keycap for nylon (currently only have grey nylon in stock)
+ ~~$0.80 per keycap for nylon~~ (out of stock for now)
  
  Shipping is $3.50
  
