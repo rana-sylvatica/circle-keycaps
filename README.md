@@ -4,7 +4,10 @@ Information about 3D printable Frame1-style circular keycaps
 
 ### Overview:
   There are extremely limited commercially-available options for circular keycaps that fit standard mechanical switches.
-A viable alternative is 3D printing the keycaps through an online service.  Although there are numerous online 3D printing services, most of them are prohibitively expensive.  The cheapest one (as far as I know) is JLCPCB, a PCB manufacturer based in China that also offers 3D printing in several materials.
+A viable alternative is 3D printing the keycaps through an online service.  Although there are numerous online 3D printing services, most of them are prohibitively expensive.  The cheapest options we know of are:
+
+* JLCPCB, a PCB manufacturer based in China that also offers 3D printing in several materials.
+* Xometry, an on-demand parts manufacturing marketplace. They can sometimes ship to Europe for free.
 
 ### Guide to ordering keycaps from JLC:
 
@@ -21,6 +24,20 @@ A viable alternative is 3D printing the keycaps through an online service.  Alth
 
  - Save to cart
  - Checkout
+
+### Guide to ordering keycaps from Xometry:
+
+- Go to get.xometry.eu/quotes/new
+- Upload 3D files
+  - Be sure to use the model with the filename corresponding to the chosen material
+- Click "Start Quoting"
+- Once geometry analysis is complete, click "Edit specifications"
+- Under "Technology", select "HP Multi Jet Fusion" if you want to print in nylon
+  - Note: We have not yet ordered resin caps from them. Proceed at your own risk
+- select material/color/quantity
+- Click "Back to quote"
+- Click "Proceed"
+- Complete the checkout process
 
 ### Notes on materials:
 
